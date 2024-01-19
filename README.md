@@ -1,2 +1,2 @@
 # Hello, World!
- My first repository: just keeping the tradition
+ My first repository: keeping the tradition
